@@ -4,8 +4,8 @@ var _ = require('underscore');
 
 module.exports = {
   titles: {
-    spplanhazirlik: ['hazirlik süreci', 'stratejik plan hazırlık süreci', 'Hazirlik Süreci', 'Stratejik Plan Hazirlik Süreci','Stratejik Plan Hazırlık Süreci'],
-    durumanalizi: ['durum analizi', 'DURUM Analizi', 'Durum Analizi'],
+   spplanhazirlik: ['2020 - 2024','STRATEJİK PLAN','STRATEJİK PLANLAMA SÜRECİ','hazirlik süreci', 'stratejik plan hazırlık süreci', 'Hazirlik Süreci', 'Stratejik Plan Hazirlik Süreci','Stratejik Plan Hazırlık Süreci'],
+    //durumanalizi: ['durum analizi', 'DURUM ANALİZİ', 'Durum Analizi', 'DURUM ANALİZLERİ', 'Durum analizleri', 'durum analizleri'],
     technology: ['technology', 'technologies'],
     experience: ['experience'],
     education: ['education'],
