@@ -4,8 +4,8 @@ var _ = require('underscore');
 
 module.exports = {
   titles: {
-    objective: ['objective', 'objectives'],
-    summary: ['summary'],
+    spplanhazirlik: ['hazirlik süreci', 'stratejik plan hazırlık süreci', 'Hazirlik Süreci', 'Stratejik Plan Hazirlik Süreci','Stratejik Plan Hazırlık Süreci'],
+    durumanalizi: ['durum analizi', 'DURUM Analizi', 'Durum Analizi'],
     technology: ['technology', 'technologies'],
     experience: ['experience'],
     education: ['education'],
